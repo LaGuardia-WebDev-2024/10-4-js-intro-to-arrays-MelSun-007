@@ -8,6 +8,14 @@ setup = function() {
     text("🍽", i, 370)
   }
 
+var fruit = "orange";
+
+var fruit = ["Orange", "Mango", "Banana"];
+
+fill(255,0,0)
+text(fruit[0],10,30)
+text(fruit[1],10,70)
+text(fruit[2],10,110)
 
 };
 
